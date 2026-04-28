@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+/docling/images
 
 # Virtual environments
 .venv
